@@ -1,0 +1,30 @@
+
+🎉 Excited to share that I've completed the 60-Day Data Analytics Internship
+at ApexPlanet Software Pvt. Ltd.!
+
+Over 60 days, I worked through a structured 5-task curriculum that took me from
+raw, messy data to actionable business insights:
+
+📌 Task 1 — Data Wrangling: Cleaned 1,025 records, engineered 9 features,
+   handled missing values, outliers & duplicate rows using Python/Pandas.
+
+📌 Task 2 — EDA & SQL: Wrote 7 SQL business queries, built correlation
+   heatmaps, and designed a KPI dashboard mock-up.
+
+📌 Task 3 — Deep-Dive & Dashboard: Performed RFM segmentation (5 customer
+   tiers) and cohort retention analysis. Built an interactive Chart.js
+   dashboard — open in your browser, no tools needed!
+
+📌 Task 4 — Storytelling & Statistics: Validated findings with T-tests, ANOVA,
+   and Chi-squared tests. Presented a 5-slide stakeholder deck.
+
+📌 Task 5 — Portfolio: Consolidated everything into a GitHub portfolio with a
+   live HTML portfolio page.
+
+Key takeaway: Data is only as valuable as the story you tell with it. Statistical
+rigour + clear narrative = actionable insights.
+
+🔗 Portfolio: [GitHub Link]
+🔗 Dashboard: [Live Dashboard Link]
+
+#DataAnalytics #Python #SQL #Internship #ApexPlanet #DataScience #EDA #Portfolio
